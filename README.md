@@ -1,2 +1,2 @@
 # Music-Maker
-A web app I made that uses HTML, CSS, and Javascript to create sounds and cool visual effects. 
+A web app I made that uses HTML, CSS, and Javascript to create beats and cool visual effects. There aren't many sounds to choose from because I wanted to keep the project simple enough to complete in a reasonable amount of time. Nonetheless, it is still possible to make some instrumentals that sound pretty good with what is available. Music is something that has been tied to my life for almost all of it, so making this project was really fun. I hope anyone who comes accross this project has fun with it as well. Also, any and all feedback to improve on my skills will be greatly appreciated.
